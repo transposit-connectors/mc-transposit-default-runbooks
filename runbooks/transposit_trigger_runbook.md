@@ -6,7 +6,7 @@ Start an activity on Transposit to track an incident or an operations task. **A 
 [New Activity](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/create_transposit_activity)
 
 Create a new Jira issue and subscribe it to all dashboard updates from your team.
-[New Jira](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/new_jira)
+[Create a Jira Issue](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/jira_create_issue)
 
 Create a new Zoom meeting to discuss with your team
 [Start Zoom](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/create_zoom)
