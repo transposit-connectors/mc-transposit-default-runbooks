@@ -1,6 +1,6 @@
 # Tasks
 
-## Tasks
+## Getting Started
 
 Start an activity on Transposit to track an incident or an operations task. **A new channel will be created as well as a dashboard to keep track**
 [New Activity](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/create_transposit_activity)
