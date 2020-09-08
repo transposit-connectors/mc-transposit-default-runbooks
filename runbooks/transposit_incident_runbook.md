@@ -2,8 +2,8 @@
 
 ## Basic Incident Process
 
-File an issue in Jira and have it track updates on this incident.
-[Create a Jira Issue](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/jira_create_issue)
+File an issue in JIRA and have it track updates on this incident
+[Create a JIRA Issue](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/jira_create_issue)
 
 Assign an incident commander on Transposit
 [Assign Commander](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/assign_commander)
