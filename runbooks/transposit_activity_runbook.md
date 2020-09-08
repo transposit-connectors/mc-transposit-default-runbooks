@@ -1,6 +1,6 @@
 # Tasks
 
-## Basic activity process
+## Activity process
 
 File an issue in JIRA and have it track updates on this activity
 [Create JIRA issue](https://console.demo.transposit.com/mc/t/basic-incident-test/actions/jira_create_issue)
