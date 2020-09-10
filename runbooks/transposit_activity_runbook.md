@@ -1,5 +1,7 @@
 # Tasks
 
+A list of tasks for activities on Transposit
+
 ## Activity process
 
 File an issue in JIRA and have it track updates on this activity
